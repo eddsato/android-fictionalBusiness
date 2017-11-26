@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FictionalBusiness</string>
+    <string name="title">eddSATO_ \nMobile Developer</string>
+    <string name="contacts">Contacts</string>
+    <string name="mobile">+55 (11) 99999-9999</string>
+    <string name="email">eduardosato@live.com</string>
+    <string name="location">São Paulo, Brazil</string>
+    <string name="description">Description</string>
+    <string name="description_content">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Cras dui nibh, luctus nec quam eget, eleifend malesuada dui. Suspendisse eget tincidunt dolor.
+        Nullam iaculis feugiat neque, ac laoreet velit dapibus in.</string>
+    <string name="sponsor">Sponsors</string>
+</resources>
